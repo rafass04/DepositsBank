@@ -1,6 +1,6 @@
-# Desafio - Construir um worker que recebe uma lista de depósitos a serem efetuados dentro do Banco Novidade, creditando na conta corrente do cliente - Agencia: 0001 - Banco Novidade
+## Desafio - Construir um worker que recebe uma lista de depósitos a serem efetuados dentro do Banco Novidade, creditando na conta corrente do cliente - Agencia: 0001 - Banco Novidade
 
-## Diretrizes
+### Diretrizes
 Receber a lista de depósitos via API
 	- Checar se os dados da lista de depósitos são válidos
 	- Agência e conta de destino
